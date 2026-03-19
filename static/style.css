@@ -102,6 +102,12 @@ h1 {
     text-align: center;
 }
 
+.btn-delete {
+    margin-top: 12px;
+    display: block;
+    width: fit-content;
+}
+
 .btn:hover { background: var(--accent-h); }
 
 .btn-secondary {

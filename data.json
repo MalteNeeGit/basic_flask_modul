@@ -3,30 +3,48 @@
         "id": 1,
         "author": "Lena Fischer",
         "title": "Warum ich mit Flask angefangen habe",
-        "content": "Ich wollte schon lange Webentwicklung lernen, aber große Frameworks wie Django haben mich anfangs überfordert. Flask war für mich der perfekte Einstieg: minimalistisch, flexibel und leicht zu verstehen. In diesem Beitrag erkläre ich, wie ich meine erste kleine App gebaut habe und warum ich Flask jedem Anfänger empfehlen würde."
+        "content": "Ich wollte schon lange Webentwicklung lernen, aber gro\u00dfe Frameworks wie Django haben mich anfangs \u00fcberfordert. Flask war f\u00fcr mich der perfekte Einstieg: minimalistisch, flexibel und leicht zu verstehen. In diesem Beitrag erkl\u00e4re ich, wie ich meine erste kleine App gebaut habe und warum ich Flask jedem Anf\u00e4nger empfehlen w\u00fcrde."
     },
     {
         "id": 2,
         "author": "Maximilian Weber",
-        "title": "Die 5 größten Fehler beim Programmieren lernen",
-        "content": "Viele Anfänger machen die gleichen Fehler: zu viel Theorie, zu wenig Praxis, Angst vor Fehlern und das ständige Wechseln von Technologien. Ich teile hier meine Erfahrungen aus den ersten zwei Jahren als Entwickler und gebe Tipps, wie man schneller Fortschritte macht und motiviert bleibt."
+        "title": "Die 5 gr\u00f6\u00dften Fehler beim Programmieren lernen",
+        "content": "Viele Anf\u00e4nger machen die gleichen Fehler: zu viel Theorie, zu wenig Praxis, Angst vor Fehlern und das st\u00e4ndige Wechseln von Technologien. Ich teile hier meine Erfahrungen aus den ersten zwei Jahren als Entwickler und gebe Tipps, wie man schneller Fortschritte macht und motiviert bleibt."
     },
     {
         "id": 3,
         "author": "Sophie Klein",
         "title": "Mein Workflow als Freelance Developer",
-        "content": "Als Freelancer ist Struktur alles. Von der Kundenkommunikation über Projektplanung bis hin zur Umsetzung – ich zeige dir meinen täglichen Workflow. Außerdem gehe ich auf Tools ein, die mir helfen, produktiv zu bleiben und Deadlines einzuhalten."
+        "content": "Als Freelancer ist Struktur alles. Von der Kundenkommunikation \u00fcber Projektplanung bis hin zur Umsetzung \u2013 ich zeige dir meinen t\u00e4glichen Workflow. Au\u00dferdem gehe ich auf Tools ein, die mir helfen, produktiv zu bleiben und Deadlines einzuhalten."
     },
     {
         "id": 4,
         "author": "Daniel Schmidt",
-        "title": "REST APIs einfach erklärt",
-        "content": "REST APIs sind das Rückgrat moderner Webanwendungen. In diesem Beitrag erkläre ich die Grundlagen: HTTP-Methoden, Statuscodes und wie man saubere Endpoints strukturiert. Mit praktischen Beispielen in Python und Flask kannst du direkt loslegen."
+        "title": "REST APIs einfach erkl\u00e4rt",
+        "content": "REST APIs sind das R\u00fcckgrat moderner Webanwendungen. In diesem Beitrag erkl\u00e4re ich die Grundlagen: HTTP-Methoden, Statuscodes und wie man saubere Endpoints strukturiert. Mit praktischen Beispielen in Python und Flask kannst du direkt loslegen."
     },
     {
         "id": 5,
         "author": "Anna Becker",
         "title": "Vom Hobby zum Job: Mein Weg in die IT",
-        "content": "Vor drei Jahren habe ich angefangen, mir selbst Programmieren beizubringen. Heute arbeite ich als Junior Entwicklerin in einem Startup. Ich erzähle dir von meinem Weg, den Herausforderungen und gebe dir konkrete Tipps, wie auch du den Einstieg schaffen kannst."
+        "content": "Vor drei Jahren habe ich angefangen, mir selbst Programmieren beizubringen. Heute arbeite ich als Junior Entwicklerin in einem Startup. Ich erz\u00e4hle dir von meinem Weg, den Herausforderungen und gebe dir konkrete Tipps, wie auch du den Einstieg schaffen kannst."
+    },
+    {
+        "id": 6,
+        "author": "",
+        "title": "",
+        "content": "    "
+    },
+    {
+        "id": 7,
+        "author": "Malte Neemann",
+        "title": "Warum mach ich das?",
+        "content": "Ne spass macht eigentlich spa\u00df, aber dauert echt ewig man"
+    },
+    {
+        "id": 8,
+        "author": "",
+        "title": "",
+        "content": "    "
     }
 ]

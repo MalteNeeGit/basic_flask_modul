@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+<body>
+<div class="form-card">
+    <form method="POST" action="{{ url_for('update', post_id=post['id']) }}">
+    <label for="author">Author:</label><br>
+    <input type="text" id="author" name="author" value="{{ post['author'] }}"><br>
+
+    <label for="title">Title:</label><br>
+    <input type="text" id="title" name="title" value="{{ post['title'] }}"><br>
+
+    <label for="content">Content:</label><br>
+    <textarea id="content">{{ post['content'] }}</textarea><br>
+
+    <input type="submit" value="Submit">
+</div>
+    <div class="btn-wrapper-back">
+    <a class="btn" href="{{ url_for('index') }}">Zurück</a>
+    </div>
+</body>
+</html>

@@ -92,22 +92,6 @@ h1 {
     transition: background 0.15s ease;
 }
 
-.btn-wrapper {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.btn-wrapper-back {
-    margin-top: 16px;
-    text-align: center;
-}
-
-.btn-delete {
-    margin-top: 12px;
-    display: block;
-    width: fit-content;
-}
-
 .btn:hover { background: var(--accent-h); }
 
 .btn-secondary {
@@ -118,7 +102,41 @@ h1 {
 
 .btn-secondary:hover { background: rgba(0,113,227,0.06); }
 
-/* ── Form (add.html) ── */
+.btn-delete {
+    background: #ff3b30;
+}
+
+.btn-delete:hover {
+    background: #e0342a;
+}
+
+.btn-edit {
+    background: #34c759;
+}
+
+.btn-edit:hover {
+    background: #2eb350;
+}
+
+/* ── Post Actions ── */
+.post-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+}
+
+/* ── Button Wrappers ── */
+.btn-wrapper {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn-wrapper-back {
+    margin-top: 16px;
+    text-align: center;
+}
+
+/* ── Form (add.html / update.html) ── */
 .form-card {
     background: var(--surface);
     border: 1px solid var(--border);

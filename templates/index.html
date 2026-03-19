@@ -17,7 +17,10 @@
         <h2>{{ post['title'] }}</h2>
         <p class="meta"><em>Written by {{ post['author'] }}</em></p>
         <p>{{ post['content'] }}</p>
-        <a class="btn btn-delete" href="{{ url_for('delete', post_id=post['id']) }}">Lösche diesen Post</a>
+        <div class="post-actions">
+            <a class="btn btn-delete" href="{{ url_for('delete', post_id=post['id']) }}">Lösche diesen Post</a>
+            <a class="btn btn-edit" href="{{ url_for('update', post_id=post['id']) }}">Ändere diesen Post</a>
+        </div>
 
     </div>
     {% endfor %}

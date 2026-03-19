@@ -1,11 +1,5 @@
 [
     {
-        "id": 1,
-        "author": "Lena Fischer",
-        "title": "Warum ich mit Flask angefangen habe",
-        "content": "Ich wollte schon lange Webentwicklung lernen, aber gro\u00dfe Frameworks wie Django haben mich anfangs \u00fcberfordert. Flask war f\u00fcr mich der perfekte Einstieg: minimalistisch, flexibel und leicht zu verstehen. In diesem Beitrag erkl\u00e4re ich, wie ich meine erste kleine App gebaut habe und warum ich Flask jedem Anf\u00e4nger empfehlen w\u00fcrde."
-    },
-    {
         "id": 2,
         "author": "Maximilian Weber",
         "title": "Die 5 gr\u00f6\u00dften Fehler beim Programmieren lernen",
@@ -28,5 +22,11 @@
         "author": "Anna Becker",
         "title": "Vom Hobby zum Job: Mein Weg in die IT",
         "content": "Vor drei Jahren habe ich angefangen, mir selbst Programmieren beizubringen. Heute arbeite ich als Junior Entwicklerin in einem Startup. Ich erz\u00e4hle dir von meinem Weg, den Herausforderungen und gebe dir konkrete Tipps, wie auch du den Einstieg schaffen kannst."
+    },
+    {
+        "id": 5,
+        "author": "Lena Fischer",
+        "title": "Warum ich mit Flask angefangen habe",
+        "content": "Ich wollte schon lange Webentwicklung lernen, aber gro\u00dfe Frameworks wie Django haben mich anfangs \u00fcberfordert. Flask war f\u00fcr mich der perfekte Einstieg: minimalistisch, flexibel und leicht zu verstehen. In diesem Beitrag erkl\u00e4re ich, wie ich meine erste kleine App gebaut habe und warum ich Flask jedem Anf\u00e4nger empfehlen w\u00fcrde."
     }
 ]

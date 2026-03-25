@@ -16,9 +16,10 @@
     <input type="text" id="title" name="title" value="{{ post['title'] }}"><br>
 
     <label for="content">Content:</label><br>
-    <textarea id="content">{{ post['content'] }}</textarea><br>
+    <textarea id="content" name="content">{{ post['content'] }}</textarea><br>
 
     <input type="submit" value="Submit">
+</form>
 </div>
     <div class="btn-wrapper-back">
     <a class="btn" href="{{ url_for('index') }}">Zurück</a>
